@@ -29,7 +29,8 @@
         android:text="Favoriet"
         android:id="@+id/favoriet1"
         android:layout_alignTop="@+id/route1"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+        android:onClick="test" />
 
     <TextView
         android:layout_width="wrap_content"
