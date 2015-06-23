@@ -46,7 +46,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Route"
-                    android:id="@+id/Sroute1" />
+                    android:id="@+id/Sroute1"
+                    android:onClick="Sroute1" />
 
                 <Button
                     android:layout_width="wrap_content"
@@ -87,7 +88,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Route"
-                    android:id="@+id/Sroute2" />
+                    android:id="@+id/Sroute2"
+                    android:onClick="Sroute2" />
 
                 <Button
                     android:layout_width="wrap_content"
@@ -128,7 +130,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Route"
-                    android:id="@+id/Sroute3" />
+                    android:id="@+id/Sroute3"
+                    android:onClick="Sroute3" />
 
                 <Button
                     android:layout_width="wrap_content"
@@ -169,7 +172,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Route"
-                    android:id="@+id/Sroute4" />
+                    android:id="@+id/Sroute4"
+                    android:onClick="Sroute4" />
 
                 <Button
                     android:layout_width="wrap_content"
@@ -188,7 +192,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/img5"
+                    android:id="@+id/Simg5"
                     android:src="@mipmap/ic_launcher" />
 
                 <TextView
@@ -196,7 +200,7 @@
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
                     android:text="Title Snackbar4"
-                    android:id="@+id/title5"
+                    android:id="@+id/Stitle5"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
 
@@ -210,13 +214,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Route"
-                    android:id="@+id/route5" />
+                    android:id="@+id/Sroute5"
+                    android:onClick="Sroute5" />
 
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
-                    android:id="@+id/info5"
+                    android:id="@+id/Sinfo5"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
 
@@ -229,7 +234,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/img6"
+                    android:id="@+id/Simg6"
                     android:src="@mipmap/ic_launcher" />
 
                 <TextView
@@ -237,7 +242,7 @@
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
                     android:text="Title Snackbar4"
-                    android:id="@+id/title6"
+                    android:id="@+id/Stitle6"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
 
@@ -251,13 +256,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Route"
-                    android:id="@+id/route6" />
+                    android:id="@+id/Sroute6"
+                    android:onClick="Sroute6" />
 
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
-                    android:id="@+id/info6"
+                    android:id="@+id/Sinfo6"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
 
@@ -270,7 +276,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/img7"
+                    android:id="@+id/Simg7"
                     android:src="@mipmap/ic_launcher" />
 
                 <TextView
@@ -278,7 +284,7 @@
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
                     android:text="Title Snackbar4"
-                    android:id="@+id/title7"
+                    android:id="@+id/Stitle7"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
 
@@ -292,13 +298,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Route"
-                    android:id="@+id/route7" />
+                    android:id="@+id/Sroute7"
+                    android:onClick="Sroute7" />
 
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
-                    android:id="@+id/info7"
+                    android:id="@+id/Sinfo7"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
 
@@ -311,7 +318,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/img8"
+                    android:id="@+id/Simg8"
                     android:src="@mipmap/ic_launcher" />
 
                 <TextView
@@ -319,7 +326,7 @@
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
                     android:text="Title Snackbar4"
-                    android:id="@+id/title8"
+                    android:id="@+id/Stitle8"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
 
@@ -333,13 +340,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Route"
-                    android:id="@+id/route8" />
+                    android:id="@+id/Sroute8"
+                    android:onClick="Sroute8" />
 
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
-                    android:id="@+id/info8"
+                    android:id="@+id/Sinfo8"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
 
@@ -352,7 +360,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/img9"
+                    android:id="@+id/Simg9"
                     android:src="@mipmap/ic_launcher" />
 
                 <TextView
@@ -360,7 +368,7 @@
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
                     android:text="Title Snackbar4"
-                    android:id="@+id/title9"
+                    android:id="@+id/Stitle9"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
 
@@ -374,13 +382,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Route"
-                    android:id="@+id/route9" />
+                    android:id="@+id/Sroute9"
+                    android:onClick="Sroute9" />
 
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
-                    android:id="@+id/info9"
+                    android:id="@+id/Sinfo9"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
 
@@ -393,7 +402,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/img10"
+                    android:id="@+id/Simg10"
                     android:src="@mipmap/ic_launcher" />
 
                 <TextView
@@ -401,7 +410,7 @@
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
                     android:text="Title Snackbar4"
-                    android:id="@+id/title10"
+                    android:id="@+id/Stitle10"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
 
@@ -415,13 +424,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Route"
-                    android:id="@+id/route10" />
+                    android:id="@+id/Sroute10"
+                    android:onClick="Sroute10" />
 
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
-                    android:id="@+id/info10"
+                    android:id="@+id/Sinfo10"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
 
