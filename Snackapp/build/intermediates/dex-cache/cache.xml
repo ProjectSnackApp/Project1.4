@@ -2,186 +2,186 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-3c9a8a72435a5ae0da65b8f8444a371ef4e2d717.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-8fb49bd98b0aa6e58310a4ea8e89b8064d8559ec.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-0df50c47f66b267ce1344ffc3657985aa0d97a1a.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-6ab338b7a9ffc5bc626d829a91d66a551150b25a.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-91bc65104ae6bacf17488630812ef237f1e40e73.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-9ef7cd23890187221dd2baf8e80caff85929e177.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-e14b12bb69c7c1be144322cbb359db9d21da699c.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-4a229de092acdce4ae019c63a5a78407d42751c5.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-942bfb595e588b76eca69984dab26b0f16f4cb07.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-6dd57eafefde8bbdb097816234d6df2d61af09f5.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-0dca4425d54e7601a5af7dece1d0c393ac10a708.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-17db5b981454775be8358b837561d402dbe90964.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-701821361459bb852d90941293c7132c03516597.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-2aa27a03587eb9c31858c721616c8fda5063ed85.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-3c7d4ba553f8844fa4dfd77864753b09b571f8db.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-6c58b62329d4ea04187452e357ce66650bd68163.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-c42d48dd62d636c233ccc8081c76d7d483e5c7f7.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-52f877b80c4fe5eab78a4d75322fe13df45847e9.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-7522803940609b1d8405709bfa45050a51753037.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-46b94081ef94afa3874a440a18104c226b1fe26b.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-f67134b888f47c5dd757563d54f447efe6230496.jar" />
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-7b4a43f9ee8713993f5d921347d5b998d20ade6f.jar" />
     </item>
     <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-55d41a5def9e62f1f8b8566650aa681e58e4071e.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-93520811c1763117cb3677e6b6998f55f2fcc75e.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-0f3559d146d4287e550f3fbd60cd3c7070a91c35.jar" />
-    </item>
-    <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-40d1da70b8f7d7f334618bfeaa44965e472e6eba.jar" />
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-fa7eb8049a522afebe033e53acf0fd9a52b565a8.jar" />
     </item>
     <item
-        jar="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-01cbb473893729c2e06e7ca5bb3a28d712a1a564.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-675c9deb961262bcf61c679396379d4acac0c721.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-f95c852c9d9f8e4879635fd15453a9fd64920caa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-7b28c02bc730cc2ca13c7238650c85b5ade2391b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-d88681c209e14512c3d2bed90631d6cfce273084.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-e08241b5aef39ab42f5d0be2580c02de8cadc28d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-d402ac390285eb3f7d1b0ca23f225ad3d808ff9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-f5762af35fb30950825a98cf1cfbf11f6af431c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-4e2ff2ddfcdaa47d06c1e8f98d4300ac8c9d9539.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-7ea102700627d14a142c0bbf90e72599d8e456eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-7a7f2c577b6a99ffbe1c270fbc009ff482f68fd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-5f12031bcfd0574f328ace4f928b5dcad8eee49e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-184452b76eedc87b0e34f0f8e0f73b7bd5e459ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-50cf634d1519985f51337ce655759efd66841139.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="C:\Users\Chris\AndroidStudioProjects\Snackapp\app\build\intermediates\pre-dexed\debug\classes-dc9fa6779c54d744cb57bac589165fd75c4918aa.jar" />
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-d29771ce9ed7c0f2ec4fdc3cea510ac39ca03e5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-c914662a434f387caffd798e7808ee6f25463d56.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-27b314a227c808a5e537ec328bbf8c6e6beb25e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-41fda82b477f59dab00184463faaa3ee2555ef3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-31322fab5701c3aa5e1eaaf7f46a446b69c7c2a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-12f227312936703454f724594b03491e2cf9df06.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-fdaaea41c86271e3df8e2db994d59292580e3d48.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-c49fffd736a6eccdbde56cecf4eb1aa16f15aed6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-df76f1410e221523c82bc90a8cf20696fc96cb1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Gebruiker\Desktop\Informatica\1.4\Project\Project1.4\Snackapp\app\build\intermediates\pre-dexed\debug\classes-1d80a79b837fec69b377ae46587d20a36ef95efe.jar" />
     </item>
 
 </items>

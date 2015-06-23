@@ -14,8 +14,8 @@ import android.widget.RelativeLayout;
 public class snackbar_layout extends ActionBarActivity {
 
     RelativeLayout AchterSnack;
-    Button route1, route2, route3, route4;
-
+    double X;
+    double Y;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,54 +23,8 @@ public class snackbar_layout extends ActionBarActivity {
         setContentView(R.layout.snackbar_layout);
 
         AchterSnack = (RelativeLayout) findViewById(R.id.AchterSnack);
-        route1 = (Button) findViewById(R.id.route1);
-        route2 = (Button) findViewById(R.id.route2);
-        route3 = (Button) findViewById(R.id.route3);
-        route4 = (Button) findViewById(R.id.route4);
-
-        route1.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View S) {
-                // click code
-                Intent intent = new Intent("com.example.MapPane");
-                startActivity(intent);
-            }
-        });{
-
-        }
-
-        route2.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View T) {
-                // click code
-                Intent intent2 = new Intent("com.example.MapPane");
-                startActivity(intent2);
-            }
-        });
-
-        route3.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View I) {
-                // click code
-                Intent intent3 = new Intent("com.example.MapPane");
-                startActivity(intent3);
-            }
-        });
-
-        route4.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View I) {
-                // click code
-                Intent intent3 = new Intent("com.example.MapPane");
-                startActivity(intent3);
-            }
-        });
-
     }
-    public void test(View v){
-        Intent myIntent = new Intent(this, MapPane.class);
-        startActivity(myIntent);
-    }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
