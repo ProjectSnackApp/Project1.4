@@ -1,6 +1,8 @@
 package com.example.gebruiker.snackapp;
 
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
@@ -175,4 +177,165 @@ public class turks_layout extends ActionBarActivity {
         i.putExtra("Adres",Adres);
         startActivity(i);
     }
+
+    //Pop Ups
+
+    public void PopUp1 (View view) {
+        new AlertDialog.Builder(this)
+                .setTitle("Informatie")
+                .setMessage("West Kruiskade 25b\n" +
+                        "Openingstijden:\n" +
+                        ("Zo-Do: 12:00 - 1:00\n" +
+                                "Vr-Za: 12:00 - 2:00"))
+                .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        // continue with delete
+                    }
+                })
+                .setIcon(android.R.drawable.ic_dialog_alert)
+                .show();
+    }
+
+    public void PopUp2 (View view) {
+        new AlertDialog.Builder(this)
+                .setTitle("Informatie")
+                .setMessage("Coolsingel 87d\n" +
+                        "Openingstijden:\n" +
+                        ("Elke dag: 12:00 - 6:00"))
+                .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        // continue with delete
+                    }
+                })
+                .setIcon(android.R.drawable.ic_dialog_alert)
+                .show();
+    }
+
+    public void PopUp3 (View view) {
+        new AlertDialog.Builder(this)
+                .setTitle("Informatie")
+                .setMessage("Oostplein 225\n" +
+                        "Openingstijden:\n" +
+                        ("Elke dag: 12:00 - 6:00"))
+                .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        // continue with delete
+                    }
+                })
+                .setIcon(android.R.drawable.ic_dialog_alert)
+                .show();
+    }
+
+    public void PopUp4 (View view) {
+        new AlertDialog.Builder(this)
+                .setTitle("Informatie")
+                .setMessage("Boompjes 543\n" +
+                        "Openingstijden:\n" +
+                        ("Ma: Gesloten\n" +
+                                "Di-Do: 14:00 - 0:00\n" +
+                                "Vr-Za: 14:00 - 2:00"))
+                .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        // continue with delete
+                    }
+                })
+                .setIcon(android.R.drawable.ic_dialog_alert)
+                .show();
+    }
+
+    public void PopUp5 (View view) {
+        new AlertDialog.Builder(this)
+                .setTitle("Informatie")
+                .setMessage("Coolsingel 4c\n" +
+                        "Openingstijden:\n" +
+                        ("Zo-Do: 15:00 - 4:30\n" +
+                                "Vr-Za: 15:00 - 6:30"))
+                .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        // continue with delete
+                    }
+                })
+                .setIcon(android.R.drawable.ic_dialog_alert)
+                .show();
+    }
+
+    public void PopUp6 (View view) {
+        new AlertDialog.Builder(this)
+                .setTitle("Informatie")
+                .setMessage("Hermesplantsoen 3\n" +
+                        "Openingstijden:\n" +
+                        ("Elke dag: 16:00 - 4:00"))
+                .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        // continue with delete
+                    }
+                })
+                .setIcon(android.R.drawable.ic_dialog_alert)
+                .show();
+    }
+
+    public void PopUp7 (View view) {
+        new AlertDialog.Builder(this)
+                .setTitle("Informatie")
+                .setMessage("Rijstuin 174\n" +
+                        "Openingstijden:\n" +
+                        ("Zo-Ma: 16:00 - 22:00\n" +
+                                "Di-Do: 16:00 - 0:00" +
+                                "Vr-Za: 16:00 - 2:00"))
+                .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        // continue with delete
+                    }
+                })
+                .setIcon(android.R.drawable.ic_dialog_alert)
+                .show();
+    }
+
+    public void PopUp8 (View view) {
+        new AlertDialog.Builder(this)
+                .setTitle("Informatie")
+                .setMessage("Leuvehaven 65\n" +
+                        "Openingstijden:\n" +
+                        ("Zo-Do: 14:00 - 23:00\n" +
+                                "Vr-Za: 14:00 - 1:00"))
+                .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        // continue with delete
+                    }
+                })
+                .setIcon(android.R.drawable.ic_dialog_alert)
+                .show();
+    }
+
+    public void PopUp9 (View view) {
+        new AlertDialog.Builder(this)
+                .setTitle("Informatie")
+                .setMessage("Witte de Withstraat 16\n" +
+                        "Openingstijden:\n" +
+                        ("Zo-Do: 17:00 - 23:00\n" +
+                                "Vr-Za: 17:00 - 0:00"))
+                .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        // continue with delete
+                    }
+                })
+                .setIcon(android.R.drawable.ic_dialog_alert)
+                .show();
+    }
+
+    public void PopUp10 (View view) {
+        new AlertDialog.Builder(this)
+                .setTitle("Informatie")
+                .setMessage("Stadhuisplein 20\n" +
+                        "Openingstijden:\n" +
+                        ("Elke dag: 16:00 - 6:00"))
+                .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        // continue with delete
+                    }
+                })
+                .setIcon(android.R.drawable.ic_dialog_alert)
+                .show();
+    }
+
 }

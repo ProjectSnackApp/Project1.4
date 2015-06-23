@@ -25,7 +25,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Simg1"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/mcdonalds2" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -54,7 +54,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Sinfo1"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="sPopUp1"/>
             </LinearLayout>
 
             <LinearLayout
@@ -67,7 +68,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Simg2"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/mcdonalds2" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -96,7 +97,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Sinfo2"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="sPopUp2"/>
             </LinearLayout>
 
             <LinearLayout
@@ -109,7 +111,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Simg3"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/mcdonalds2" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -138,7 +140,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Sinfo3"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="sPopUp3"/>
             </LinearLayout>
 
             <LinearLayout
@@ -151,7 +154,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Simg4"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/mcdonalds2" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -180,7 +183,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Sinfo4"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="sPopUp4"/>
             </LinearLayout>
 
             <LinearLayout
@@ -193,7 +197,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Simg5"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/mcdonalds2" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -222,7 +226,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Sinfo5"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="sPopUp5"/>
             </LinearLayout>
 
             <LinearLayout
@@ -235,7 +240,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Simg6"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/mcdonalds2" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -264,7 +269,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Sinfo6"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="sPopUp6"/>
             </LinearLayout>
 
             <LinearLayout
@@ -277,7 +283,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Simg7"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/kfc" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -306,7 +312,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Sinfo7"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="sPopUp7"/>
             </LinearLayout>
 
             <LinearLayout
@@ -319,7 +326,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Simg8"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/kfc" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -348,7 +355,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Sinfo8"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="sPopUp8"/>
             </LinearLayout>
 
             <LinearLayout
@@ -361,7 +369,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Simg9"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/burgerking" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -390,7 +398,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Sinfo9"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="sPopUp9"/>
             </LinearLayout>
 
             <LinearLayout
@@ -403,7 +412,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Simg10"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/burgerking" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -432,7 +441,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Sinfo10"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="sPopUp10"/>
             </LinearLayout>
         </LinearLayout>
     </ScrollView>

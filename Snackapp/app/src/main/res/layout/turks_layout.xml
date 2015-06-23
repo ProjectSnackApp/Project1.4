@@ -25,7 +25,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Timg1"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/kapsalon" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -54,7 +54,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Tinfo1"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="PopUp1"/>
             </LinearLayout>
 
             <LinearLayout
@@ -67,7 +68,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Timg2"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/kapsalon" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -96,7 +97,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Tinfo2"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="PopUp2"/>
             </LinearLayout>
 
             <LinearLayout
@@ -109,7 +111,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Timg3"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/kapsalon" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -138,7 +140,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Tinfo3"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="PopUp3"/>
             </LinearLayout>
 
             <LinearLayout
@@ -151,7 +154,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Timg4"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/kapsalon" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -180,7 +183,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Tinfo4"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="PopUp4"/>
             </LinearLayout>
 
             <LinearLayout
@@ -193,7 +197,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Timg5"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/kapsalon" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -222,7 +226,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Tinfo5"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="PopUp5"/>
             </LinearLayout>
 
             <LinearLayout
@@ -235,7 +240,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Timg6"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/kapsalon" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -264,7 +269,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Tinfo6"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="PopUp6"/>
             </LinearLayout>
 
             <LinearLayout
@@ -277,7 +283,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Timg7"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/kapsalon" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -306,7 +312,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Tinfo7"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="PopUp7"/>
             </LinearLayout>
 
             <LinearLayout
@@ -319,7 +326,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Timg8"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/kapsalon" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -348,7 +355,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Tinfo8"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="PopUp8"/>
             </LinearLayout>
 
             <LinearLayout
@@ -361,7 +369,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Timg9"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/kapsalon" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -390,7 +398,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Tinfo9"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="PopUp9"/>
             </LinearLayout>
 
             <LinearLayout
@@ -403,7 +412,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/Timg10"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/kapsalon" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -432,7 +441,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/Info"
                     android:id="@+id/Tinfo10"
-                    android:layout_marginLeft="10dp" />
+                    android:layout_marginLeft="10dp"
+                    android:onClick="PopUp10"/>
             </LinearLayout>
         </LinearLayout>
     </ScrollView>
