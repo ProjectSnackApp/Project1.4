@@ -1,5 +1,7 @@
 package com.example.gebruiker.snackapp;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Color;
 import android.support.v7.app.ActionBarActivity;
@@ -14,7 +16,6 @@ import android.widget.RelativeLayout;
 public class MainActivity extends ActionBarActivity {
 
     RelativeLayout AchterHoofd;
-    Button ButtonSnack, ButtonTurks, ButtonItaliaans;
 
 
     @Override
@@ -23,38 +24,6 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 
         AchterHoofd = (RelativeLayout) findViewById(R.id.AchterHoofd);
-        ButtonSnack = (Button) findViewById(R.id.ButtonSnack);
-        ButtonTurks = (Button) findViewById(R.id.ButtonTurks);
-        ButtonItaliaans = (Button) findViewById(R.id.ButtonItaliaans);
-
-        ButtonSnack.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View S) {
-                // click code
-                Intent intent = new Intent("com.example.snackbar_layout");
-                startActivity(intent);
-            }
-        });{
-
-        }
-
-        ButtonTurks.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View T) {
-                // click code
-                Intent intent2 = new Intent("com.example.turks_layout");
-                startActivity(intent2);
-            }
-        });
-
-        ButtonItaliaans.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View I) {
-                // click code
-                Intent intent3 = new Intent("com.example.italiaans_layout");
-                startActivity(intent3);
-            }
-        });
 
     }
 
@@ -78,5 +47,15 @@ public class MainActivity extends ActionBarActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    public void SnackbarB (View view) {
+        Intent i = new Intent(getApplicationContext(),snackbar_layout.class);
+        startActivity(i);
+    }
+
+    public void TurkB (View view) {
+        Intent i = new Intent(getApplicationContext(),turks_layout.class);
+        startActivity(i);
     }
 }
