@@ -1,5 +1,7 @@
 package com.example.gebruiker.snackapp;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Color;
 import android.support.v7.app.ActionBarActivity;
@@ -14,7 +16,7 @@ import android.widget.RelativeLayout;
 public class MainActivity extends ActionBarActivity {
 
     RelativeLayout AchterHoofd;
-    Button ButtonSnack, ButtonTurks, ButtonItaliaans;
+    Button ButtonSnack;
 
 
     @Override
@@ -24,8 +26,6 @@ public class MainActivity extends ActionBarActivity {
 
         AchterHoofd = (RelativeLayout) findViewById(R.id.AchterHoofd);
         ButtonSnack = (Button) findViewById(R.id.ButtonSnack);
-        ButtonTurks = (Button) findViewById(R.id.ButtonTurks);
-        ButtonItaliaans = (Button) findViewById(R.id.ButtonItaliaans);
 
         ButtonSnack.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -33,28 +33,30 @@ public class MainActivity extends ActionBarActivity {
                 // click code
                 Intent intent = new Intent("com.example.snackbar_layout");
                 startActivity(intent);
-            }
-        });{
-
-        }
-
-        ButtonTurks.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View T) {
-                // click code
-                Intent intent2 = new Intent("com.example.turks_layout");
-                startActivity(intent2);
+                PopUp();
             }
         });
 
-        ButtonItaliaans.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View I) {
-                // click code
-                Intent intent3 = new Intent("com.example.italiaans_layout");
-                startActivity(intent3);
-            }
-        });
+
+    }
+
+    public void PopUp() {
+
+        new AlertDialog.Builder(this)
+                .setTitle("Delete entry")
+                .setMessage("Are you sure you want to delete this entry?")
+                .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        // continue with delete
+                    }
+                })
+                .setNegativeButton(android.R.string.no, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        // do nothing
+                    }
+                })
+                .setIcon(android.R.drawable.ic_dialog_alert)
+                .show();
 
     }
 

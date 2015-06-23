@@ -15,10 +15,10 @@
             android:layout_height="fill_parent"
             android:orientation="vertical">
             <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:layout_height="150dp"
                 android:id="@+id/imageView"
-                android:src="@mipmap/ic_launcher"
+                android:src="@mipmap/header"
                 android:layout_gravity="center_horizontal" />
 
             <Button
@@ -35,24 +35,15 @@
                 android:id="@+id/ButtonTurks"
                 android:layout_below="@+id/ButtonSnack" />
 
-            <Button
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:text="Italiaans"
-                android:id="@+id/ButtonItaliaans"
-                android:layout_below="@+id/ButtonTurks" />
-
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 android:text="Aanbevolen"
                 android:id="@+id/Aanbevolen"
-                android:autoText="true"
                 android:textColor="#ff000000"
                 android:textSize="19dp"
                 android:layout_gravity="center_horizontal"
-                android:layout_below="@+id/ButtonItaliaans"
                 android:layout_marginTop="10dp" />
 
             <TextView
@@ -73,17 +64,16 @@
                 android:layout_marginTop="10dp"
                 android:gravity="center_vertical">
                 <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="100dp"
+                    android:layout_height="65dp"
                     android:id="@+id/FotoAanbevolen1"
-                    android:src="@mipmap/ic_launcher"
-                    android:layout_below="@+id/TekstAanbevolen" />
+                    android:src="@mipmap/mcdonalds2" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Titel"
+                    android:text="McDonalds"
                     android:id="@+id/NaamAanbevolen1"
                     android:textColor="#ff000000"
                     android:layout_marginLeft="20dp" />
@@ -93,7 +83,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Hier komt de informatie in over de snackbars. En andere informatie. opvulling. asdajdaksdjadjkasdjkajsdasd"
+                android:text="Een van de meest bezochte McDonalds van Rotterdam! Makkelijk te bereiken en in 't weekend open tot 2:00. Te vinden op Coolsingel 207 3012 AG"
                 android:id="@+id/TekstAanbevolen1"
                 android:layout_marginTop="10dp" />
 
@@ -101,19 +91,19 @@
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
                 android:orientation="horizontal"
-                android:layout_marginTop="10dp"
+                android:layout_marginTop="25dp"
                 android:gravity="center_vertical">
                 <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="100dp"
+                    android:layout_height="65dp"
                     android:id="@+id/FotoAanbevolen2"
-                    android:src="@mipmap/ic_launcher" />
+                    android:src="@mipmap/kapsalon" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:text="Titel"
+                    android:text="MAC Elaviv"
                     android:id="@+id/NaamAanbevolen2"
                     android:textColor="#ff000000"
                     android:layout_marginLeft="20dp" />
@@ -123,7 +113,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Hier komt de informatie in over de snackbars. En andere informatie. opvulling. asdajdaksdjadjkasdjkajsdasd"
+                android:text="Een favoriet voor mensen die uitgaan. Met eten van goede kwaliteit is MAC Elaviv open tot 4:30 in de nacht"
                 android:id="@+id/TekstAanbevolen2"
                 android:layout_marginTop="10dp"/>
         </LinearLayout>
