@@ -31,7 +31,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:text="Title Snackbar"
+                    android:text="McDonalds - Korte Lijnbaan 6"
                     android:id="@+id/Stitle1"
                     android:layout_marginLeft="10dp"/>
             </LinearLayout>
@@ -73,7 +73,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:text="Title Snackbar2"
+                    android:text="McDonalds - Oude Binnenweg 99"
                     android:id="@+id/Stitle2"
                     android:layout_marginLeft="10dp"/>
             </LinearLayout>
@@ -115,7 +115,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:text="Title Snackbar3"
+                    android:text="McDonalds - Coolsingel 207"
                     android:id="@+id/Stitle3"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
@@ -157,7 +157,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:text="Title Snackbar4"
+                    android:text="McDonalds - Coolsingel 80"
                     android:id="@+id/Stitle4"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
@@ -199,7 +199,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:text="Title Snackbar4"
+                    android:text="McDonalds - Coolsingel 44"
                     android:id="@+id/Stitle5"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
@@ -241,7 +241,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:text="Title Snackbar4"
+                    android:text="McDonalds - Hoogstraat 194"
                     android:id="@+id/Stitle6"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
@@ -283,7 +283,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:text="Title Snackbar4"
+                    android:text="KFC - Binnenwegplein 68"
                     android:id="@+id/Stitle7"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
@@ -325,7 +325,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:text="Title Snackbar4"
+                    android:text="KFC - West-Kruiskade 46"
                     android:id="@+id/Stitle8"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
@@ -367,7 +367,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:text="Title Snackbar4"
+                    android:text="Burger King - Lijnbaan 100"
                     android:id="@+id/Stitle9"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
@@ -409,7 +409,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:text="Title Snackbar4"
+                    android:text="Burger King - Stationssingel 10"
                     android:id="@+id/Stitle10"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
@@ -434,7 +434,6 @@
                     android:id="@+id/Sinfo10"
                     android:layout_marginLeft="10dp" />
             </LinearLayout>
-
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
