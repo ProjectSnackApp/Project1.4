@@ -6,4 +6,5 @@
     <string name="title_activity_route">Route</string>
     <string name="Route">Route</string>
     <string name="Info">Info</string>
+    <string name="title_activity_all_locations">All Locations</string>
 </resources>

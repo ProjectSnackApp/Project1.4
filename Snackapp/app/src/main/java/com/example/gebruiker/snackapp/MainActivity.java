@@ -49,6 +49,11 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    public void AllLocations (View view){
+        Intent i = new Intent(getApplicationContext(),AllLocations.class);
+        startActivity(i);
+    }
+
     public void SnackbarB (View view) {
         Intent i = new Intent(getApplicationContext(),snackbar_layout.class);
         startActivity(i);
