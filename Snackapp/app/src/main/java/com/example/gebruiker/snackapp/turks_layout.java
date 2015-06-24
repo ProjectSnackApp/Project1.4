@@ -48,6 +48,7 @@ public class turks_layout extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    //Open map and ad specific location marker
     public void Troute1 (View view) {
         Intent i = new Intent(getApplicationContext(),MapPane.class);
         X = 51.920651;

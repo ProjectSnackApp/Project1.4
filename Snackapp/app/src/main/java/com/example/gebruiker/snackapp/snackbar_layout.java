@@ -51,6 +51,7 @@ public class snackbar_layout extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    //Open map and ad specific location marker
     public void Sroute1 (View view) {
         Intent i = new Intent(getApplicationContext(),MapPane.class);
         X = 51.921886;
@@ -172,6 +173,7 @@ public class snackbar_layout extends ActionBarActivity {
         startActivity(i);
     }
 
+    //pop ups
     public void sPopUp1(View view) {
         new AlertDialog.Builder(this)
                 .setTitle("Informatie")
@@ -330,7 +332,7 @@ public class snackbar_layout extends ActionBarActivity {
                 .setMessage("Stationssingel 10\n" +
                         "Openingstijden:\n" +
                         ("Zo-Do: 9:30 - 2:00\n" +
-                                "9:30 - 5:00"))
+                                "Vr-Za: 9:30 - 5:00"))
                 .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int which) {
                         // continue with delete

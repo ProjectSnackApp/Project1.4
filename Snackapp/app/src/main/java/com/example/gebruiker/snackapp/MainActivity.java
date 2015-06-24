@@ -49,16 +49,19 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    //All restaurant locations
     public void AllLocations (View view){
         Intent i = new Intent(getApplicationContext(),AllLocations.class);
         startActivity(i);
     }
 
+    //Open snackbar window
     public void SnackbarB (View view) {
         Intent i = new Intent(getApplicationContext(),snackbar_layout.class);
         startActivity(i);
     }
 
+    //Open turks window
     public void TurkB (View view) {
         Intent i = new Intent(getApplicationContext(),turks_layout.class);
         startActivity(i);
